@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Sistema de archivos de OSX
+.DS_Store
+
+# Directorios de la IDE
+.idea/
+.vscode/
